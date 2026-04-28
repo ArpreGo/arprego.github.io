@@ -136,6 +136,7 @@ section.intro {
 }
 section.intro .content .logo {
   margin-bottom: 2em;
+  padding-top: 3rem;
   text-align: center;
 }
 section.intro .content .logo picture {
